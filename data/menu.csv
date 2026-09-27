@@ -1,0 +1,11 @@
+id,name,category,price,availability
+F001,Vada Pav,Snacks,20,Yes
+F002,Samosa,Snacks,15,Yes
+F003,Masala Dosa,South Indian,60,Yes
+F004,Veg Sandwich,Fast Food,50,Yes
+F005,Veg Burger,Fast Food,70,Yes
+F006,Cheese Pizza,Fast Food,120,Yes
+F007,French Fries,Sides,55,Yes
+F008,Cold Coffee,Beverages,50,Yes
+F009,Lemon Juice,Beverages,30,Yes
+F010,Chocolate Brownie,Dessert,45,Yes
